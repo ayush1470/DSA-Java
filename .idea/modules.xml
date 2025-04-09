@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beautiful-ArrayList/Beautiful-ArrayList.iml" filepath="$PROJECT_DIR$/Beautiful-ArrayList/Beautiful-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" filepath="$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContainerWithMostWater/ContainerWithMostWater.iml" filepath="$PROJECT_DIR$/ContainerWithMostWater/ContainerWithMostWater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/CountingSort/CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Java.iml" filepath="$PROJECT_DIR$/.idea/DSA-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindSingleNumberInArray/FindSingleNumberInArray.iml" filepath="$PROJECT_DIR$/FindSingleNumberInArray/FindSingleNumberInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GFG-Partitioning_Equal_Subset_Sum/GFG-Partitioning_Equal_Subset_Sum.iml" filepath="$PROJECT_DIR$/GFG-Partitioning_Equal_Subset_Sum/GFG-Partitioning_Equal_Subset_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InbuildSort/InbuildSort.iml" filepath="$PROJECT_DIR$/InbuildSort/InbuildSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestString/LargestString.iml" filepath="$PROJECT_DIR$/LargestString/LargestString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largestinteger/Largestinteger.iml" filepath="$PROJECT_DIR$/Largestinteger/Largestinteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LonelyNumbers-in-ArrayList/LonelyNumbers-in-ArrayList.iml" filepath="$PROJECT_DIR$/LonelyNumbers-in-ArrayList/LonelyNumbers-in-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxSumSubArray/MaxSumSubArray.iml" filepath="$PROJECT_DIR$/MaxSumSubArray/MaxSumSubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_Consecutive_Zeros_in_a_BinaryArray/Maximum_Consecutive_Zeros_in_a_BinaryArray.iml" filepath="$PROJECT_DIR$/Maximum_Consecutive_Zeros_in_a_BinaryArray/Maximum_Consecutive_Zeros_in_a_BinaryArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OS_Code/OS_Code.iml" filepath="$PROJECT_DIR$/OS_Code/OS_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PairSum-ArrayList/PairSum-ArrayList.iml" filepath="$PROJECT_DIR$/PairSum-ArrayList/PairSum-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PairSum2-ArrayList/PairSum2-ArrayList.iml" filepath="$PROJECT_DIR$/PairSum2-ArrayList/PairSum2-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PairsInArray/PairsInArray.iml" filepath="$PROJECT_DIR$/PairsInArray/PairsInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question 3/Question 3.iml" filepath="$PROJECT_DIR$/Question 3/Question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReccuringNumbers/ReccuringNumbers.iml" filepath="$PROJECT_DIR$/ReccuringNumbers/ReccuringNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversingArray/ReversingArray.iml" filepath="$PROJECT_DIR$/ReversingArray/ReversingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotatedArrayBinarySearch/RotatedArrayBinarySearch.iml" filepath="$PROJECT_DIR$/RotatedArrayBinarySearch/RotatedArrayBinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortestPath/ShortestPath.iml" filepath="$PROJECT_DIR$/ShortestPath/ShortestPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticMethodsAndMembers/StaticMethodsAndMembers.iml" filepath="$PROJECT_DIR$/StaticMethodsAndMembers/StaticMethodsAndMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subarray/Subarray.iml" filepath="$PROJECT_DIR$/Subarray/Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substring/Substring.iml" filepath="$PROJECT_DIR$/Substring/Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrappedRainwater/TrappedRainwater.iml" filepath="$PROJECT_DIR$/TrappedRainwater/TrappedRainwater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment/assignment.iml" filepath="$PROJECT_DIR$/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenging task/challenging task.iml" filepath="$PROJECT_DIR$/challenging task/challenging task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbmsConnection/dbmsConnection.iml" filepath="$PROJECT_DIR$/dbmsConnection/dbmsConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPalindrome/isPalindrome.iml" filepath="$PROJECT_DIR$/isPalindrome/isPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql_conn/mysql_conn.iml" filepath="$PROJECT_DIR$/mysql_conn/mysql_conn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overR/overR.iml" filepath="$PROJECT_DIR$/overR/overR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question 2/question 2.iml" filepath="$PROJECT_DIR$/question 2/question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz 4/quiz 4.iml" filepath="$PROJECT_DIR$/quiz 4/quiz 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test3/test3.iml" filepath="$PROJECT_DIR$/test3/test3.iml" />
+    </modules>
+  </component>
+</project>
